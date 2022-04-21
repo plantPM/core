@@ -13,14 +13,13 @@ Plant is a free and open source package managers. It uses install scripts to ins
 
 **DEPENDECIES**
 
-While plant is very minimal, it requires gcc to build and curl to function.
+While plant is very minimal, it requires gcc and curl.
 
 **INSTALLATION**
 
-Run ```build.sh``` to build plant.
 
-```bash
-sh build.sh
+
+```sh
+curl -sL https://https://raw.githubusercontent.com/plantPM/core/main/build.sh
 ```
 
-**CURRENTLY PLANT IS ONLY AVAILABLE IN THAT DIRECTORY**
