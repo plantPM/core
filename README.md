@@ -17,9 +17,9 @@ While plant is very minimal, it requires gcc and curl.
 
 **INSTALLATION**
 
-
+Run the install script:
 
 ```sh
-curl -sL https://https://raw.githubusercontent.com/plantPM/core/main/build.sh
+curl -sL https://raw.githubusercontent.com/plantPM/core/main/install.sh
 ```
 

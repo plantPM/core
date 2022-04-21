@@ -6,3 +6,5 @@ function install() {
     ./build.sh
     rm build.sh
 }
+
+install
