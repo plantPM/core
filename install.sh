@@ -4,7 +4,7 @@ function install() {
     curl -sL https://raw.githubusercontent.com/plantPM/core/main/build.sh
     chmod +x build.sh
     ./build.sh
-    rm main.c
+    rm build.sh
 }
 
 install
