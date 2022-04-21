@@ -20,6 +20,8 @@ While plant is very minimal, it requires gcc and curl.
 Run the install script:
 
 ```sh
-curl -sL https://raw.githubusercontent.com/plantPM/core/main/install.sh | sh
+curl -OsL https://raw.githubusercontent.com/plantPM/core/main/install.sh 
+chmod +x install.sh
+./install.sh
 ```
 
