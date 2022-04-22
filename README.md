@@ -1,9 +1,11 @@
 # Plant
 
 
-## WHAT IS PLANT?????
+For more info about the project and installation of it, please visit [our website](https://www.plantPM.gthub.io)
 
-Plant is a free and open source package managers. It uses install scripts to install packages.
+## What is plant?????
+
+Plant is a free and open source package managers. It uses install scripts to install softwere.
 
 ## Why is this better then homebrew?
 
