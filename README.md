@@ -23,3 +23,25 @@ Run the install script:
 curl -sL https://raw.githubusercontent.com/plantPM/core/main/install.sh | sh
 ```
 
+## Usage
+
+Once installed, you can use plant to install packages by running this command
+
+```sh
+./plant
+```
+
+It will then promt you for the package name.
+
+If the package name is found it will install it.
+
+Else it will give you a 404 error.
+
+## Contributing
+
+Please check out contributing.md
+
+## License
+
+Plant is licensed under the GNU Affero General Public License v3.0. Learn more at the [license](LICENSE) file or[here](https://www.gnu.org/licenses/agpl-3.0.html).
+
