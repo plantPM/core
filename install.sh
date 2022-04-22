@@ -1,7 +1,7 @@
 function install() {
     echo "Installing the program"
     curl -OsL https://raw.githubusercontent.com/plantPM/core/main/src/main.c
-    gcc main.c -o main
+    gcc main.c -o plant
 }
 
 install
